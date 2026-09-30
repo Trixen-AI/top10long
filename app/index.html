@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard · Top10Long</title>
+    <meta name="description" content="Top10Long dashboard: the live Long.xyz top 10, your wallet's holdings and T10L claims on Robinhood Chain." />
+    <link rel="canonical" href="https://top10long.xyz/app/" />
+    <!-- Wallet-specific app pages: keep them out of search results, but let crawlers follow links. -->
+    <meta name="robots" content="noindex, follow" />
+    <meta name="theme-color" content="#FFD23F" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Top10Long" />
+    <meta property="og:url" content="https://top10long.xyz/app/" />
+    <meta property="og:title" content="Top10Long Dashboard" />
+    <meta property="og:description" content="Follow the live Long.xyz top 10, see what your wallet holds and approve your T10L claim." />
+    <meta property="og:image" content="https://top10long.xyz/og-image.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Top10Long" />
+    <meta name="twitter:image" content="https://top10long.xyz/og-image.png" />
+
+    <link rel="preconnect" href="https://api.dexscreener.com" crossorigin />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/app/main.tsx"></script>
+  </body>
+</html>

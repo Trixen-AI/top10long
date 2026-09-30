@@ -1,0 +1,50 @@
+/* Base styles live in Tailwind's base layer so utility classes (text-white, etc.) always win. */
+@layer base {
+  /* Fluid rem: every size in the layout is written in rem against a 1920 (desktop)
+     or 375 (mobile) design width, so the whole page scales with the viewport. */
+  html {
+    font-size: max(50px, (100vw / var(--design-width-mobile)) * 100);
+    background-color: var(--paper);
+    /* Reserve the scrollbar so the width does not jump when the page grows after the intro. */
+    scrollbar-gutter: stable;
+  }
+  @media (min-width: 64rem) {
+    html {
+      font-size: max(52px, (100vw / var(--design-width-pc)) * 100);
+    }
+  }
+
+  body {
+    font-family: var(--font-sans);
+    font-size: 16px;
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+    overflow-x: clip;
+  }
+
+  ::selection {
+    background: var(--accent);
+    color: var(--ink);
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--ink);
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

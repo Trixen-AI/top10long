@@ -1,0 +1,20 @@
+@import '@fontsource-variable/geist';
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Geist Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-brand-bold: 'Geist Variable', ui-sans-serif, system-ui, sans-serif;
+
+  --color-accent: #ffd23f;
+  --color-accent-deep: #f2b705;
+  --color-ink: #0b0b0c;
+  --color-paper: #f4f3ee;
+  --color-pale: #fbf9f1;
+  --color-neutral: #e6e4dc;
+  --color-up: #0f8a4a;
+  --color-down: #c2362b;
+}
+
+@import './styles/tokens.css';
+@import './styles/base.css';
+@import './styles/components.css';

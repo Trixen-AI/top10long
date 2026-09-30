@@ -1,0 +1,1213 @@
+{
+  "generatedAt": "2026-09-26T19:41:26.179Z",
+  "scanBlock": 73331311,
+  "launchers": [
+    {
+      "address": "0x22e99278308B393ea1260859B181AD7E78f5eeED",
+      "fromBlock": 8636038
+    },
+    {
+      "address": "0x1eef016f22a943abc7dd11422edee9d235942104",
+      "fromBlock": 56086428
+    }
+  ],
+  "launchCreatedTopic": "0xadc6f1f726f7c710f77ec06adc75f3bb964e5be19581b072c67f7b9b4039267b",
+  "totalLaunches": 61848,
+  "withDexPairs": 1077,
+  "candidates": [
+    {
+      "address": "0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18",
+      "symbol": "AI",
+      "name": "Artificial Inu",
+      "marketCapUsd": 251267803
+    },
+    {
+      "address": "0x98096d17e191B3dA1d5f99a6D7b3584351b11E18",
+      "symbol": "BONER",
+      "name": "Boner Coin",
+      "marketCapUsd": 47129884
+    },
+    {
+      "address": "0x385F4f8ae47651ce5F58F5265395a669f8281e18",
+      "symbol": "MEME",
+      "name": "A Meme Coin",
+      "marketCapUsd": 29203580
+    },
+    {
+      "address": "0xD9dB30BB0D2b8d2eae3826A1372117E058791e18",
+      "symbol": "MOO",
+      "name": "Memory cow Moo",
+      "marketCapUsd": 12280371
+    },
+    {
+      "address": "0x63Ee32Ac3077d1fbd8a77eBBA2a6ed4b8e9c1e18",
+      "symbol": "INU",
+      "name": "iNu",
+      "marketCapUsd": 11729578
+    },
+    {
+      "address": "0x42aFA2124ca5a2B83898E46B2dA9a190995b1E18",
+      "symbol": "SCHIFFY",
+      "name": "SCHIFFY",
+      "marketCapUsd": 7659283
+    },
+    {
+      "address": "0xFd82D8DB539b6AcE0D50815845133767e24F1E18",
+      "symbol": "ASTEROID",
+      "name": "ASTEROID",
+      "marketCapUsd": 4939945
+    },
+    {
+      "address": "0x1a911bb954dAA9CB38513423075bE74450351e18",
+      "symbol": "MONITOR",
+      "name": "The Situation",
+      "marketCapUsd": 4887974
+    },
+    {
+      "address": "0x168661C52E5922288dFb2b3f323b6Cf90eb21e18",
+      "symbol": "STRATEGY",
+      "name": "Strategy Coin",
+      "marketCapUsd": 3315333
+    },
+    {
+      "address": "0xFe7E19CbCe2f896C6C528BC355bAF5a768291E18",
+      "symbol": "SPACEHOOD",
+      "name": "SPACEHOOD",
+      "marketCapUsd": 2583878
+    },
+    {
+      "address": "0xd36b68E9f384bD2b94bAF49c5e084b3B88fa1E18",
+      "symbol": "SI",
+      "name": "Super Inu",
+      "marketCapUsd": 2177560
+    },
+    {
+      "address": "0x4BEeDe2E87CC6bA3e995b01911d36269465E1E18",
+      "symbol": "BOXY",
+      "name": "BoxCat",
+      "marketCapUsd": 1728909
+    },
+    {
+      "address": "0xD18528b39dA6464B3662c331a52181ecB15b1E18",
+      "symbol": "SAYLORMOON",
+      "name": "SAYLORMOON",
+      "marketCapUsd": 1675369
+    },
+    {
+      "address": "0x89dA5167eb1A0067f9B3e39A544EF8d4b9c41e18",
+      "symbol": "SIT",
+      "name": "Board Sit",
+      "marketCapUsd": 1563054
+    },
+    {
+      "address": "0x8eaa17Be69AE9616cEDe4671e6d837bb89491E18",
+      "symbol": "CPU",
+      "name": "Cat Processing Unit",
+      "marketCapUsd": 1362100
+    },
+    {
+      "address": "0xA49e56cB03aa6690bB40B9aEEfb0ca22Ad8B1E18",
+      "symbol": "PET",
+      "name": "PET",
+      "marketCapUsd": 1340225
+    },
+    {
+      "address": "0xF1b266c11f68bC936f218AD20712c4feB3e61E18",
+      "symbol": "OPEN",
+      "name": "OPEN",
+      "marketCapUsd": 1291484
+    },
+    {
+      "address": "0xd1E92BA7c7355c2698addD894919Cba198601E18",
+      "symbol": "QUBIT",
+      "name": "Qubit",
+      "marketCapUsd": 1273694
+    },
+    {
+      "address": "0x5d6EF090a1461B11c9427aC319260122D1C61e18",
+      "symbol": "ICOIN",
+      "name": "iCoin",
+      "marketCapUsd": 1260242
+    },
+    {
+      "address": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "symbol": "CATGPT",
+      "name": "CATGPT",
+      "marketCapUsd": 1239808
+    },
+    {
+      "address": "0xd24688a1d530f648aeD86A835acA8AD6a7e61E18",
+      "symbol": "CLANKER",
+      "name": "Clanker",
+      "marketCapUsd": 1113076
+    },
+    {
+      "address": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+      "symbol": "ANTHROPIG",
+      "name": "Anthropig",
+      "marketCapUsd": 983100
+    },
+    {
+      "address": "0x134C4FB13Dc3c873d699957a8493E463b56f1e18",
+      "symbol": "WELOVECATS",
+      "name": "We Love Cats",
+      "marketCapUsd": 857790
+    },
+    {
+      "address": "0xAfe41f4356c24f716111DE1fbbC84e061D291E18",
+      "symbol": "CACHE",
+      "name": "Cache Cow",
+      "marketCapUsd": 754573
+    },
+    {
+      "address": "0xAC43a84d825518B2e2De5Bcd041132929b341e18",
+      "symbol": "IA",
+      "name": "Inu Artifficial",
+      "marketCapUsd": 722711
+    },
+    {
+      "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+      "symbol": "GASOLINU",
+      "name": "Gasoline Inu",
+      "marketCapUsd": 713073
+    },
+    {
+      "address": "0x1537feE0675e85A9b3F01938A56c9e6Ed6941E18",
+      "symbol": "LONGCAT",
+      "name": "LongCat",
+      "marketCapUsd": 704274
+    },
+    {
+      "address": "0xF5B8a9320E249b8B4e28800344F85914167C1e18",
+      "symbol": "BABYAI",
+      "name": "Baby AI",
+      "marketCapUsd": 600051
+    },
+    {
+      "address": "0x68281919E022B0feF78E4A6181a9050fD6131e18",
+      "symbol": "CHIPS",
+      "name": "Chips",
+      "marketCapUsd": 572144
+    },
+    {
+      "address": "0xb911F04A24A9f6234537829290335e623ee71E18",
+      "symbol": "URANUS",
+      "name": "Uranus",
+      "marketCapUsd": 566695
+    },
+    {
+      "address": "0x85856F025BF13b8Fd2aaE2F6DA458318744F1E18",
+      "symbol": "CLIPPY",
+      "name": "Clippy",
+      "marketCapUsd": 436266
+    },
+    {
+      "address": "0x05D73A652529f0b1a6Dd2B89dE26b449eC9F1e18",
+      "symbol": "A",
+      "name": "Adell",
+      "marketCapUsd": 410967
+    },
+    {
+      "address": "0x75983916521Ac4A7faFAd7568819463cebdE1e18",
+      "symbol": "NASTY",
+      "name": "NotaStrategy",
+      "marketCapUsd": 391234
+    },
+    {
+      "address": "0x12d834F0780c367909319c73f42310Dc0b201E18",
+      "symbol": "INCEL",
+      "name": "Incel Inside",
+      "marketCapUsd": 349434
+    },
+    {
+      "address": "0xA605875D620753f4Fb06024B788b2B6552a81e18",
+      "symbol": "FTR",
+      "name": "flying tesla roadster",
+      "marketCapUsd": 346858
+    },
+    {
+      "address": "0xcF1968747bC573294e468FD0cDaB0Dc61B971E18",
+      "symbol": "VACCINU",
+      "name": "VACCINU",
+      "marketCapUsd": 346059
+    },
+    {
+      "address": "0xd4aAe326dDd1a2537A92C00E6576E4605e5D1e18",
+      "symbol": "AU",
+      "name": "AUTSM",
+      "marketCapUsd": 341970
+    },
+    {
+      "address": "0x5a8625d314fDd298101d87932A784b756A401e18",
+      "symbol": "AGI",
+      "name": "AGI Frog",
+      "marketCapUsd": 337401
+    },
+    {
+      "address": "0xBA60A394627379Ff6ae9688EF30B11DA5A641E18",
+      "symbol": "LOCKHEEDINU",
+      "name": "LOCKHEED INU",
+      "marketCapUsd": 321427
+    },
+    {
+      "address": "0x3139D2c2d479D9Ce7982EFae32f1d696A4481E18",
+      "symbol": "CHONK",
+      "name": "Chonk Coin",
+      "marketCapUsd": 297016
+    },
+    {
+      "address": "0x36E93e3F85472F206FAf96a2c2313355f9be1e18",
+      "symbol": "ANT",
+      "name": "ANThropic",
+      "marketCapUsd": 286704
+    },
+    {
+      "address": "0x51C7a88230f9e11945c25d058A583e6703E61e18",
+      "symbol": "ICU",
+      "name": "ICU 👁️",
+      "marketCapUsd": 284727
+    },
+    {
+      "address": "0x65d7e1D00867d1a659c2F190CC40637df3ED1E18",
+      "symbol": "PUR",
+      "name": "PURRCESSOR",
+      "marketCapUsd": 278439
+    },
+    {
+      "address": "0xAE12303Bd73442d3C8Dba9a58b164070d78a1E18",
+      "symbol": "LUCIA",
+      "name": "LUCIA",
+      "marketCapUsd": 266605
+    },
+    {
+      "address": "0x52F380A513112428723abF8AFED125824E4A1e18",
+      "symbol": "PEPTIDES",
+      "name": "Peptides",
+      "marketCapUsd": 263758
+    },
+    {
+      "address": "0x4B7720cb7025eceBE616fc6c93185Ae4414c1E18",
+      "symbol": "INVEST",
+      "name": "dog in vest",
+      "marketCapUsd": 252482
+    },
+    {
+      "address": "0x5aCB54868D292443cAFC3Ce88496589F6b4F1E18",
+      "symbol": "BUCK",
+      "name": "GME MASCOT",
+      "marketCapUsd": 213122
+    },
+    {
+      "address": "0x69c68e4C00C6F6e4Ac027300293a879Be1E11E18",
+      "symbol": "AP",
+      "name": "ap",
+      "marketCapUsd": 209116
+    },
+    {
+      "address": "0x9D6967E7f5ed93ba3fbBcB03eC2E13b617591E18",
+      "symbol": "O",
+      "name": "O",
+      "marketCapUsd": 208908
+    },
+    {
+      "address": "0xcd2c9071C30445Cf4E3eD825Da92E6DFeedD1e18",
+      "symbol": "CLAWD",
+      "name": "CLAWD",
+      "marketCapUsd": 200749
+    },
+    {
+      "address": "0x5f57aA1bB52D7CA10A3588ff4736E3650a2e1E18",
+      "symbol": "MP",
+      "name": "MicroPenis",
+      "marketCapUsd": 199136
+    },
+    {
+      "address": "0xa9eFe2Fc94dE79734C03051515F48f254Ce61e18",
+      "symbol": "DOGGIE",
+      "name": "Doggie Mode",
+      "marketCapUsd": 198848
+    },
+    {
+      "address": "0x990FB9D2986458788e3cB71AB4b3AD49213E1E18",
+      "symbol": "FROGE",
+      "name": "FROGE",
+      "marketCapUsd": 193467
+    },
+    {
+      "address": "0x9D7D4D0e0c41fA6bC1E30DDF8645D8F83C101e18",
+      "symbol": "CHROME",
+      "name": "Chrome Cat",
+      "marketCapUsd": 166064
+    },
+    {
+      "address": "0x1eC871553BE07Dc68Ec1661c32ecA7e2E46E1E18",
+      "symbol": "STONKS",
+      "name": "STONKS",
+      "marketCapUsd": 160184
+    },
+    {
+      "address": "0x4Bcc2c6d2497a2b0864D87Efac28d0D47A391E18",
+      "symbol": "ANTH",
+      "name": "Anthropic",
+      "marketCapUsd": 148586
+    },
+    {
+      "address": "0xeA3b282273E9ab901790694aDD171C2606D71e18",
+      "symbol": "OOF",
+      "name": "OOF",
+      "marketCapUsd": 132788
+    },
+    {
+      "address": "0xe4F44D4444385B199d65bDBaac486DcAA12E1E18",
+      "symbol": "FRAMON",
+      "name": "FRAMON",
+      "marketCapUsd": 131836
+    },
+    {
+      "address": "0xaA0b48DEFDE440B8445bA45DB88cb076Cf261E18",
+      "symbol": "TAIWAN",
+      "name": "Taiwan Coin",
+      "marketCapUsd": 129161
+    },
+    {
+      "address": "0x080Ad0136eDe24Cc46AeFa11B7F648724bf71E18",
+      "symbol": "DATACENTER",
+      "name": "Data Center",
+      "marketCapUsd": 129003
+    },
+    {
+      "address": "0x486b0bDa03f3BC3da5f4B544F44e9Af26dbD1e18",
+      "symbol": "CLAWD",
+      "name": "CLAWD",
+      "marketCapUsd": 124366
+    },
+    {
+      "address": "0x395c45c2e5170aB9d020010DC13214ab73051E18",
+      "symbol": "JACKET",
+      "name": "Leather Jacket",
+      "marketCapUsd": 120178
+    },
+    {
+      "address": "0xC05BA3437c12bC5462C89c3D1AC847Af90A11e18",
+      "symbol": "I",
+      "name": "INU",
+      "marketCapUsd": 117092
+    },
+    {
+      "address": "0xCE4C9418B8E9bCad3E4BA2bD84123A49A6911e18",
+      "symbol": "RSI",
+      "name": "Recursive Self Inu",
+      "marketCapUsd": 115826
+    },
+    {
+      "address": "0x727E02c785D3DD40148ff0a831Aee55990711e18",
+      "symbol": "WU",
+      "name": "悟",
+      "marketCapUsd": 115570
+    },
+    {
+      "address": "0x425a590077AcF5F0F05e50ab68bc428ab4e01e18",
+      "symbol": "MICRODICK",
+      "name": "Microdick",
+      "marketCapUsd": 114717
+    },
+    {
+      "address": "0xCcaF2ea73f204d7DC2F2C723579D9Ff7cCE61e18",
+      "symbol": "SHI",
+      "name": "Shiba",
+      "marketCapUsd": 109842
+    },
+    {
+      "address": "0x73A9999f6e9Db138E1aE4595fde049A401161E18",
+      "symbol": "AAPLCAT",
+      "name": "Apple Cat",
+      "marketCapUsd": 108031
+    },
+    {
+      "address": "0x82eF09793c78f7CB6a2B6696fcdCA8E1c3581e18",
+      "symbol": "AGRIPPA",
+      "name": "AGRIPPA",
+      "marketCapUsd": 107979
+    },
+    {
+      "address": "0x1Fe2Abf68aad1d5b7A0339fBbFdbAd8E2b1d1E18",
+      "symbol": "GOYBEAM",
+      "name": "GOYBEAM",
+      "marketCapUsd": 106019
+    },
+    {
+      "address": "0x64bcF4aA85559526cFf0528BCDc0Cb9d3ea41e18",
+      "symbol": "JOHNDOG",
+      "name": "John Dog",
+      "marketCapUsd": 104908
+    },
+    {
+      "address": "0x941cf3f6B5CbfcFDb5402Cf8a8AB3903Df9C1e18",
+      "symbol": "MUSE",
+      "name": "MUSE",
+      "marketCapUsd": 101848
+    },
+    {
+      "address": "0x25dB25CA341Ec0fc45E33C46ce22C9A6AcD61E18",
+      "symbol": "AEON",
+      "name": "AEON",
+      "marketCapUsd": 98076
+    },
+    {
+      "address": "0xfaAd5390371067e83AF6Bdd838c8ABe57fb81e18",
+      "symbol": "PROMETHEUS",
+      "name": "Prometheus",
+      "marketCapUsd": 95555
+    },
+    {
+      "address": "0xc99FD9FF8494229C8271a9053e489F6405f61e18",
+      "symbol": "RIZO",
+      "name": "Rizo",
+      "marketCapUsd": 95511
+    },
+    {
+      "address": "0x756eC01256E6D652baCAA7d98b03FD8A48991E18",
+      "symbol": "GIGABYTE",
+      "name": "GigaByte",
+      "marketCapUsd": 94745
+    },
+    {
+      "address": "0x7175c4666317738D3BC1c00A12218a691f081e18",
+      "symbol": "FATCOIN",
+      "name": "FATCOIN",
+      "marketCapUsd": 93649
+    },
+    {
+      "address": "0x50D812299221BC2BDc72ae9F27C5129c1c6C1e18",
+      "symbol": "JOLLY",
+      "name": "Jollybot",
+      "marketCapUsd": 92935
+    },
+    {
+      "address": "0x798549a503D35A03d7B2223CFa60D0750e741e18",
+      "symbol": "YUGE",
+      "name": "YUGE",
+      "marketCapUsd": 91816
+    },
+    {
+      "address": "0x6e401929BB5BEBB4807c462c8c9Fb8C6B76E1e18",
+      "symbol": "BEAVER",
+      "name": "BEAVERCOIN",
+      "marketCapUsd": 89480
+    },
+    {
+      "address": "0xB5D553Cc06F9b3569731b7a74fc269B939841E18",
+      "symbol": "OPTIMUS",
+      "name": "Optimus Hood",
+      "marketCapUsd": 89204
+    },
+    {
+      "address": "0xCC3DC6fC9918b9846d1AD5Aaea740f8beD9a1e18",
+      "symbol": "DEMOTHREE",
+      "name": "Demo3x",
+      "marketCapUsd": 88999
+    },
+    {
+      "address": "0x6102d8109BD980ab0d528f56C92b7B87EFFd1e18",
+      "symbol": "LIGER",
+      "name": "Liger",
+      "marketCapUsd": 86543
+    },
+    {
+      "address": "0xfe7E4b4850979BA7920ce786493B7371761F1e18",
+      "symbol": "LONGDOG",
+      "name": "LONGDOG",
+      "marketCapUsd": 86464
+    },
+    {
+      "address": "0x9A80345d3b2679794373A9d29238714801a11e18",
+      "symbol": "TRIPLET",
+      "name": "TUNG",
+      "marketCapUsd": 83636
+    },
+    {
+      "address": "0xBdFf6A6627d2B0AE16c382883E5F0117B0171E18",
+      "symbol": "VIAG",
+      "name": "Viagra Inu",
+      "marketCapUsd": 83199
+    },
+    {
+      "address": "0xEbc3CBDeb957e128C959f34fdDd8F6aF72Da1E18",
+      "symbol": "ANTP",
+      "name": "Anthropic",
+      "marketCapUsd": 83111
+    },
+    {
+      "address": "0xA5839ec14251c6D18330340a4E62e062e4A51E18",
+      "symbol": "STARMAN",
+      "name": "Starman",
+      "marketCapUsd": 77998
+    },
+    {
+      "address": "0xcE1326Acc425fc305874E0cE64A8B0761A3e1E18",
+      "symbol": "CJ",
+      "name": "Carl Johnson",
+      "marketCapUsd": 76538
+    },
+    {
+      "address": "0x9DAD613c96Bd6E9D0f4fd840D53557Dc5EdE1e18",
+      "symbol": "FLOPS",
+      "name": "FLOPS",
+      "marketCapUsd": 75971
+    },
+    {
+      "address": "0xbEa92c5BFfd98972d7B83B8a7e7f6D0209751E18",
+      "symbol": "BUTTHOLE",
+      "name": "Butthole",
+      "marketCapUsd": 72930
+    },
+    {
+      "address": "0x9768ecc9A75B426Cf793c958B3A5d03bfF1F1E18",
+      "symbol": "AEON",
+      "name": "Aeon",
+      "marketCapUsd": 70130
+    },
+    {
+      "address": "0x1c252b71E231269D39F78765b3Ad457204561E18",
+      "symbol": "MASKS",
+      "name": "Masks",
+      "marketCapUsd": 69953
+    },
+    {
+      "address": "0x939CA34ce2Dc5845f4BFf8079Fc6cCD6aB641E18",
+      "symbol": "SNOO",
+      "name": "Snoo",
+      "marketCapUsd": 68860
+    },
+    {
+      "address": "0xf9CaA19BA4cb636acb60421c0Bd21acc77D61e18",
+      "symbol": "HENT",
+      "name": "HENTAI",
+      "marketCapUsd": 68662
+    },
+    {
+      "address": "0xBe04De9Ecc692Be99210DaBF253bb49E7bCa1e18",
+      "symbol": "SI",
+      "name": "Super Inutelligence",
+      "marketCapUsd": 68582
+    },
+    {
+      "address": "0x693Ee058bbF53A21c8f94E971Aa16751d8DD1E18",
+      "symbol": "JERRY",
+      "name": "Jerry Banfield",
+      "marketCapUsd": 68476
+    },
+    {
+      "address": "0x45612eE5a5B1642DDb73F612De964C7065531E18",
+      "symbol": "SPECSY",
+      "name": "Specsy",
+      "marketCapUsd": 67288
+    },
+    {
+      "address": "0x37D21fD322DE90B946E6B6e4B4FC5AD1b50A1e18",
+      "symbol": "CRIME",
+      "name": "Crime",
+      "marketCapUsd": 66375
+    },
+    {
+      "address": "0xC026Ab5fFE8F5AF0C62f9D7c8567af6e967A1e18",
+      "symbol": "SI",
+      "name": "SUPER INTELLIGENCE",
+      "marketCapUsd": 64373
+    },
+    {
+      "address": "0x205B9D3FeB2D34113081471FD57A0327d5521E18",
+      "symbol": "GME",
+      "name": "GameStop",
+      "marketCapUsd": 63943
+    },
+    {
+      "address": "0xd981ed1E59244105b037334A937a83d695aB1E18",
+      "symbol": "TREX",
+      "name": "Google T-REX",
+      "marketCapUsd": 62595
+    },
+    {
+      "address": "0xB83098558C1677afC705014eaC688C0F8F7F1e18",
+      "symbol": "MACHINE",
+      "name": "Machine Inu",
+      "marketCapUsd": 62264
+    },
+    {
+      "address": "0x85842A1bFA0b650633Ce3D1a88B98BEe96021e18",
+      "symbol": "FROGES",
+      "name": "froges",
+      "marketCapUsd": 61380
+    },
+    {
+      "address": "0x72Be5b4Db195eeee68028849461326842b6E1E18",
+      "symbol": "BLESS",
+      "name": "Bless Be Dei",
+      "marketCapUsd": 59863
+    },
+    {
+      "address": "0xf5F5F51C4ab83C303c4fAD5b6A0838E106eF1e18",
+      "symbol": "concern",
+      "name": "what's the concern?",
+      "marketCapUsd": 59858
+    },
+    {
+      "address": "0x5FEdfd66b542cCe3b5F949C0bb6A3abA9AdF1e18",
+      "symbol": "SANDIH",
+      "name": "Sandih",
+      "marketCapUsd": 59008
+    },
+    {
+      "address": "0x40281c768334Af0F43F2d01bA46d1cc7fdaD1E18",
+      "symbol": "HUGGY",
+      "name": "Hugging Face",
+      "marketCapUsd": 58289
+    },
+    {
+      "address": "0x88A87e196D5B5E51Ed6F8D525e5Cb8d75E7c1e18",
+      "symbol": "WIZARD",
+      "name": "Mr. Wizard",
+      "marketCapUsd": 57807
+    },
+    {
+      "address": "0x9Fd44B424770d122Fa0FdBf6e65E2f5418101E18",
+      "symbol": "CLAUDEGATOR",
+      "name": "Claude GATOR",
+      "marketCapUsd": 57541
+    },
+    {
+      "address": "0xcb6f4711e9Af0E22cF0Be5A15b9333F8C03d1E18",
+      "symbol": "TAMC",
+      "name": "Apes Movement",
+      "marketCapUsd": 55811
+    },
+    {
+      "address": "0x4E9d3bfbcB90Da72808AFD5b8566C228ec861e18",
+      "symbol": "TUX",
+      "name": "Tux",
+      "marketCapUsd": 55534
+    },
+    {
+      "address": "0x3b6d5c97AF1dde394d955bfA677716a199d71e18",
+      "symbol": "ZUCC",
+      "name": "ZUCC",
+      "marketCapUsd": 55132
+    },
+    {
+      "address": "0xfbfd4476AE28428556D0f5Ea7dfaff60f8051e18",
+      "symbol": "HENT",
+      "name": "HENTAI",
+      "marketCapUsd": 55095
+    },
+    {
+      "address": "0xa0997aF99B8d41D3f7892D38CBd573E678611E18",
+      "symbol": "LONGBOI",
+      "name": "Longboi",
+      "marketCapUsd": 54723
+    },
+    {
+      "address": "0x93Ab6706979cb33B8012b2897210474FE9991e18",
+      "symbol": "GEMINU",
+      "name": "GemInu",
+      "marketCapUsd": 54598
+    },
+    {
+      "address": "0x590898a162d39f46f8A27Fb855D068D08d6b1e18",
+      "symbol": "AMD",
+      "name": "A MEME DOG",
+      "marketCapUsd": 54532
+    },
+    {
+      "address": "0xF2451a31A0ADa3acA28c6649623a4E7176081E18",
+      "symbol": "HARDER",
+      "name": "HARDER",
+      "marketCapUsd": 54513
+    },
+    {
+      "address": "0xB50e78f6567FbCD87B09b1c655252C1550031e18",
+      "symbol": "FRONTIER",
+      "name": "We Must Pace the Frontier",
+      "marketCapUsd": 53924
+    },
+    {
+      "address": "0x702B1b379677Ff2D013ecF75877EfB52186C1E18",
+      "symbol": "HUNBIKN",
+      "name": "Hikmji",
+      "marketCapUsd": 53782
+    },
+    {
+      "address": "0x8a43d46b198BA604253099D0E4aEae48f13c1E18",
+      "symbol": "JEV",
+      "name": "Jev",
+      "marketCapUsd": 53566
+    },
+    {
+      "address": "0x250f720fafeCEeDAedf0578Ac84Aa2D1c2381E18",
+      "symbol": "MICROCHIMP",
+      "name": "MICROCHIMP",
+      "marketCapUsd": 53040
+    },
+    {
+      "address": "0x4bd2f56720AD5d5Aa077D64e57420a357cb91e18",
+      "symbol": "HARAM",
+      "name": "HARAMBE",
+      "marketCapUsd": 52334
+    },
+    {
+      "address": "0x99e776A3f8c1E24B9d64fA8b8181037885CC1E18",
+      "symbol": "VLAD",
+      "name": "Vlad Taneev",
+      "marketCapUsd": 51286
+    },
+    {
+      "address": "0x0C9EF6d80e6279c3a214a5E3c7AaD4417e3d1e18",
+      "symbol": "WAGIE",
+      "name": "Corporate Wojak",
+      "marketCapUsd": 51235
+    },
+    {
+      "address": "0x22ea949763dB855880264A8FB689E07021661e18",
+      "symbol": "CLARUS",
+      "name": "The Dogcow",
+      "marketCapUsd": 51155
+    },
+    {
+      "address": "0xA1507001d4286dcf2c3EC96cb34c6aa25c1c1E18",
+      "symbol": "DAWG",
+      "name": "Dawg",
+      "marketCapUsd": 50955
+    },
+    {
+      "address": "0x9224dF397aBfdc9f0BA16701B97bAF92244b1E18",
+      "symbol": "GC",
+      "name": "Group Chat",
+      "marketCapUsd": 50846
+    },
+    {
+      "address": "0xC11023b79bB3d29354fc3b3a5a184066199e1E18",
+      "symbol": "APU",
+      "name": "Ape Program Inu",
+      "marketCapUsd": 50307
+    },
+    {
+      "address": "0x24b62985F9eA0e972e14373903c538B2A57b1E18",
+      "symbol": "KDRAMA",
+      "name": "KDRAMA",
+      "marketCapUsd": 50168
+    },
+    {
+      "address": "0x08479C7B9A5c3e8d7c7cEce01908189c96DE1E18",
+      "symbol": "OAI",
+      "name": "Open Artificial Inu",
+      "marketCapUsd": 50133
+    },
+    {
+      "address": "0xbC487F82525e9478fD4aC63ec3085301d6b51E18",
+      "symbol": "LONGCAT",
+      "name": "Long Cat",
+      "marketCapUsd": 49694
+    },
+    {
+      "address": "0x76d73e77e4e6Ae03d46118dE48A931d7f05D1e18",
+      "symbol": "GME",
+      "name": "GAMESTOP",
+      "marketCapUsd": 49668
+    },
+    {
+      "address": "0x38C8f642A04FEaC9899990276b4207fE4F621e18",
+      "symbol": "CASHBIRD",
+      "name": "cashbird",
+      "marketCapUsd": 49021
+    },
+    {
+      "address": "0x796CE9Dc962E4e6Ddb90F47582d0504540C11e18",
+      "symbol": "ONTOLOGY",
+      "name": "The Ontology",
+      "marketCapUsd": 48758
+    },
+    {
+      "address": "0xA5A6f0Fa224a07210033367899883691AA7d1e18",
+      "symbol": "KIBSHI",
+      "name": "KiboShib",
+      "marketCapUsd": 48176
+    },
+    {
+      "address": "0x5bcAee94fd289F09D1B59554239bA06b079d1e18",
+      "symbol": "RETIRE",
+      "name": "RETIRE",
+      "marketCapUsd": 47463
+    },
+    {
+      "address": "0x62a86383e8234e085bbEB7933C644Cf834061E18",
+      "symbol": "MOONCOIN",
+      "name": "Mooncoin",
+      "marketCapUsd": 47407
+    },
+    {
+      "address": "0xf2CE522Ce04657B6f47f99b1dED10f4A33B71E18",
+      "symbol": "ANTH",
+      "name": "Anthropic",
+      "marketCapUsd": 45936
+    },
+    {
+      "address": "0x5A02ff1Fa21055E40753Fb039B3589781a361e18",
+      "symbol": "MARSCOIN",
+      "name": "Marscoin",
+      "marketCapUsd": 43463
+    },
+    {
+      "address": "0x1438fc460c7e8e5bA09EfE40A0f77e62E6281E18",
+      "symbol": "RAM",
+      "name": "RAM",
+      "marketCapUsd": 42832
+    },
+    {
+      "address": "0xB6b5D146d89cDceD2E304389D08448E327c71E18",
+      "symbol": "ROCK",
+      "name": "ROCK",
+      "marketCapUsd": 42779
+    },
+    {
+      "address": "0x7bD35820E7D2F98eD7CEd612C4984F36450B1E18",
+      "symbol": "ZOE",
+      "name": "Zoe",
+      "marketCapUsd": 42516
+    },
+    {
+      "address": "0xDfe5F1A87dceC095D5Ed7Bd378913D1453371E18",
+      "symbol": "MEME",
+      "name": "MEME",
+      "marketCapUsd": 42091
+    },
+    {
+      "address": "0xBebACCA31e990e36c3293B100D48E41773C61E18",
+      "symbol": "CYBERCAB",
+      "name": "Tesla Cybercab",
+      "marketCapUsd": 42041
+    },
+    {
+      "address": "0x51d3bBe1ab7467F71E06029e46Ef9044BF551E18",
+      "symbol": "DOGECOIN",
+      "name": "DOGECOIN",
+      "marketCapUsd": 41723
+    },
+    {
+      "address": "0xE0514A254B465C8c804F77230FB1059f84b21E18",
+      "symbol": "AMC",
+      "name": "A Meme Coin",
+      "marketCapUsd": 41386
+    },
+    {
+      "address": "0x2Dc1c86C568Ee003C4a87922546fB2F213ec1E18",
+      "symbol": "AGI",
+      "name": "Artificial Gooner Intelligence",
+      "marketCapUsd": 41015
+    },
+    {
+      "address": "0x602203B5e30781180dC2a4512799372247891E18",
+      "symbol": "WIFE",
+      "name": "Wife Change",
+      "marketCapUsd": 40961
+    },
+    {
+      "address": "0xB9CEde4314798B81127280781d53cF0A170e1e18",
+      "symbol": "SI",
+      "name": "Superior Intelligence",
+      "marketCapUsd": 40918
+    },
+    {
+      "address": "0x11Feed2daAd06BF44274B1d9a450282263c21e18",
+      "symbol": "MACROHARD",
+      "name": "Macrohard",
+      "marketCapUsd": 40722
+    },
+    {
+      "address": "0x72B1123c0EBE8EB86234c631909Ec078e0Bf1e18",
+      "symbol": "VENUSCOIN",
+      "name": "Venus Coin",
+      "marketCapUsd": 40473
+    },
+    {
+      "address": "0x34A7bec2940B6131063d49d631091928E89A1e18",
+      "symbol": "ZUCKO",
+      "name": "ZuckoTheCucko",
+      "marketCapUsd": 40332
+    },
+    {
+      "address": "0xe6EA0B1C9bd1838ee12c2AD41CC2757E6ff91E18",
+      "symbol": "APES",
+      "name": "APES",
+      "marketCapUsd": 40046
+    },
+    {
+      "address": "0x6f73CF9b36A64C6dEBba7352CD5F990B537D1E18",
+      "symbol": "ALT",
+      "name": "Alt-coin",
+      "marketCapUsd": 39910
+    },
+    {
+      "address": "0xC2703284E399a9778DcE9734e69dD6aB0dC71E18",
+      "symbol": "CYBERINU",
+      "name": "Cyber Inu",
+      "marketCapUsd": 39787
+    },
+    {
+      "address": "0x9b9933B948719DeDC323F0ac3e81542dE2Bf1e18",
+      "symbol": "FINDER",
+      "name": "Lil Finder Guy",
+      "marketCapUsd": 39737
+    },
+    {
+      "address": "0xb6263a8D8D418af67f8bBfA6D86888d5B91b1e18",
+      "symbol": "NUBTC",
+      "name": "Unvaxxed Sperm",
+      "marketCapUsd": 39600
+    },
+    {
+      "address": "0x55D9bC094C032cE0F4c57Cb09e6AB8F225531E18",
+      "symbol": "DEBTCOIN",
+      "name": "Debtcoin",
+      "marketCapUsd": 39520
+    },
+    {
+      "address": "0x575b2999100150Ad45D75E92C33B3E01eb281e18",
+      "symbol": "SHOGGOTH",
+      "name": "SHOGGOTH",
+      "marketCapUsd": 39496
+    },
+    {
+      "address": "0x56aAa501Fa9Eb6670d6175D686957434c3d21E18",
+      "symbol": "DUO",
+      "name": "iPhone Duo",
+      "marketCapUsd": 39168
+    },
+    {
+      "address": "0x592171810D8D5d596a544C6c69B487C79ED51e18",
+      "symbol": "OAI",
+      "name": "OpenAI",
+      "marketCapUsd": 38738
+    },
+    {
+      "address": "0x9DC27ea79c22Bd5f425FBAd31F89B2A312071e18",
+      "symbol": "MUSE",
+      "name": "MUSE",
+      "marketCapUsd": 38709
+    },
+    {
+      "address": "0x9d040d8918055d79a5e415f3CD438fFE022c1E18",
+      "symbol": "JALAPENO",
+      "name": "JALAPEÑO CHIP",
+      "marketCapUsd": 38553
+    },
+    {
+      "address": "0xa47C46D0b7d54a6CcE6Ef44860F6a680216d1E18",
+      "symbol": "SCALPERS",
+      "name": "TICKET SCALPERS",
+      "marketCapUsd": 38397
+    },
+    {
+      "address": "0xF0a7C90230DfA0917C25Fd9685bcc3A854a91e18",
+      "symbol": "BITS",
+      "name": "DataDog",
+      "marketCapUsd": 38300
+    },
+    {
+      "address": "0x6B0D02D305b547a05AB874C7Fd6aCB820BB71E18",
+      "symbol": "JIZZCOIN",
+      "name": "jizzcoin",
+      "marketCapUsd": 37649
+    },
+    {
+      "address": "0xB1cC2c7886bbA452465727F4e597395847E91E18",
+      "symbol": "AEON",
+      "name": "Aeon",
+      "marketCapUsd": 37607
+    },
+    {
+      "address": "0x7ccC7e87ca902Ab764cF359eDeF0Fb0386221E18",
+      "symbol": "BALD",
+      "name": "BALD",
+      "marketCapUsd": 37596
+    },
+    {
+      "address": "0x5cc8c219c916FE53AB012983a6093529b5071e18",
+      "symbol": "GEM",
+      "name": "GEM",
+      "marketCapUsd": 37505
+    },
+    {
+      "address": "0x4d41CcAa0eeB95C6EBC56d53adf637198c901e18",
+      "symbol": "SENDER",
+      "name": "SENDER",
+      "marketCapUsd": 37485
+    },
+    {
+      "address": "0x86d916F551b8E05240c1Eb14E65F733B6d181e18",
+      "symbol": "WOJAK",
+      "name": "wojak",
+      "marketCapUsd": 37482
+    },
+    {
+      "address": "0x3eb1aB2E3aB685dE0F676879913e36A29a461E18",
+      "symbol": "REX",
+      "name": "REX AI",
+      "marketCapUsd": 37477
+    },
+    {
+      "address": "0xb8b8069eafA5b469531D60a08E6f532D150b1E18",
+      "symbol": "ORG",
+      "name": "ORGASML",
+      "marketCapUsd": 37458
+    },
+    {
+      "address": "0xDE1DB4AC97946Ca084dcDD5834a6F34ACF441E18",
+      "symbol": "ROADSTER",
+      "name": "Roadster",
+      "marketCapUsd": 37340
+    },
+    {
+      "address": "0xD542Cb406e63BC4Ccc8F367Dea13f63B6a361E18",
+      "symbol": "HODL",
+      "name": "Diamond Hands",
+      "marketCapUsd": 37011
+    },
+    {
+      "address": "0xE06A2e0B7cD91dB2323F976408eca45F37201E18",
+      "symbol": "ROBUX",
+      "name": "Robux",
+      "marketCapUsd": 36996
+    },
+    {
+      "address": "0xd4d3051D96a65301a3612e6B9F9F1DEAD1C31e18",
+      "symbol": "CLAUDE",
+      "name": "Claude The Albino Alligator",
+      "marketCapUsd": 36930
+    },
+    {
+      "address": "0x4b4A57280E7B6C3B55cbDab4768D2c8A70A61e18",
+      "symbol": "EBAY",
+      "name": "EBAY",
+      "marketCapUsd": 36854
+    },
+    {
+      "address": "0xa9D63206B3E9630B567068fDb6dD88A24E5C1E18",
+      "symbol": "ELONGATE",
+      "name": "ElonGate",
+      "marketCapUsd": 36815
+    },
+    {
+      "address": "0xAd1b8331C35A5FC6B67EAC88035A7Cde29011e18",
+      "symbol": "HOUND",
+      "name": "Dividend Hounds",
+      "marketCapUsd": 36762
+    },
+    {
+      "address": "0xCBB3459375F03241a6201A6f42C2dbf3CE441E18",
+      "symbol": "CHANG",
+      "name": "CHANG",
+      "marketCapUsd": 36629
+    },
+    {
+      "address": "0x0766F0f1903060af694228c6DaA30bA8cEE61e18",
+      "symbol": "HA",
+      "name": "HAMSTR",
+      "marketCapUsd": 36606
+    },
+    {
+      "address": "0x1513f8aFE7Ef4889e961e26dCaE9f644e9591E18",
+      "symbol": "BELIEVE",
+      "name": "Believe In Something",
+      "marketCapUsd": 36516
+    },
+    {
+      "address": "0x33d0F69F9E73a80c9C97f9876F190E068b451e18",
+      "symbol": "ALWAYS",
+      "name": "Always Has Been",
+      "marketCapUsd": 36239
+    },
+    {
+      "address": "0x78adEb8dddEcb0fda01d8811dd614ff66E131e18",
+      "symbol": "CRC",
+      "name": "CryptoCoin",
+      "marketCapUsd": 36181
+    },
+    {
+      "address": "0x41Bd9d2973d1EF515f5DcE51DA9A6FAa5Ddd1E18",
+      "symbol": "SKHYNET",
+      "name": "SKHYNET",
+      "marketCapUsd": 35641
+    },
+    {
+      "address": "0xdA2CB743A44c360561187eef805b343E79081E18",
+      "symbol": "PECCY",
+      "name": "Peccy",
+      "marketCapUsd": 35589
+    },
+    {
+      "address": "0xB6De718957a4360A904a2E7ab19ffE3E38721E18",
+      "symbol": "MACROHARD",
+      "name": "Macrohard",
+      "marketCapUsd": 35555
+    },
+    {
+      "address": "0x8De9018C1bB82884245F06dedE9fE2BEbAbd1e18",
+      "symbol": "FSD",
+      "name": "Full Send Degen",
+      "marketCapUsd": 35235
+    },
+    {
+      "address": "0x7cD092903D739b5e5FdE3579900949E99Fb01e18",
+      "symbol": "SI",
+      "name": "Superior Inu",
+      "marketCapUsd": 34700
+    },
+    {
+      "address": "0x15D7E95a6B2Bd43419d8d24D052bfeAd1C5F1E18",
+      "symbol": "RAM",
+      "name": "RAM",
+      "marketCapUsd": 34357
+    },
+    {
+      "address": "0x9921d56ea6b38676968250702bcBC17044Da1E18",
+      "symbol": "BLOOP",
+      "name": "BLOOP",
+      "marketCapUsd": 34305
+    },
+    {
+      "address": "0x85747822cef10Bd5aC453d35aa6A4f21D8571E18",
+      "symbol": "TIM",
+      "name": "Tim Apple",
+      "marketCapUsd": 34303
+    },
+    {
+      "address": "0x14234588EBF2E8cDd8E95baa518bca3bA29a1E18",
+      "symbol": "LILY",
+      "name": "Lily",
+      "marketCapUsd": 34215
+    },
+    {
+      "address": "0x4aD6F2f349B8031DC09145f2d2c4bbd1852A1E18",
+      "symbol": "CLOUD",
+      "name": "CLOUD",
+      "marketCapUsd": 33588
+    },
+    {
+      "address": "0xf690dbB1228c9B65Aaf8c31E379B00D3401A1e18",
+      "symbol": "AC",
+      "name": "ABSOLUTE CINEMA",
+      "marketCapUsd": 33391
+    },
+    {
+      "address": "0x040D08267e0ef1D00e831E9Ace317048C9911E18",
+      "symbol": "KIRKINATORX",
+      "name": "KIRKINATORX",
+      "marketCapUsd": 33320
+    },
+    {
+      "address": "0x80cB7be694Ab16f274d582a96343BF8DDE9E1E18",
+      "symbol": "HO",
+      "name": "HODL",
+      "marketCapUsd": 32810
+    }
+  ]
+}

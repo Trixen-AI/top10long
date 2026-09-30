@@ -1,0 +1,20 @@
+/* LONG10 design tokens. Colour roles follow the layout's roles:
+   accent = hero wash, active card, highlight; ink = type and dark tiles;
+   paper = page; pale = light tiles; neutral = resting cards. */
+:root {
+  --accent: #ffd23f;
+  --accent-deep: #f2b705;
+  --accent-rgb: 255, 210, 63;
+  --ink: #0b0b0c;
+  --paper: #f4f3ee;
+  --pale: #fbf9f1;
+  --neutral: #e6e4dc;
+  --up: #0f8a4a;
+  --down: #c2362b;
+
+  /* Design widths the rem scale is derived from (1rem = 100px at these widths). */
+  --design-width-mobile: 375;
+  --design-width-pc: 1920;
+
+  --ease-out-expo: cubic-bezier(0.22, 1, 0.36, 1);
+}
